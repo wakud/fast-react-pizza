@@ -15,5 +15,8 @@
     <Folder Include="src\features\menu\" />
     <Folder Include="src\features\cart\" />
     <Folder Include="src\features\order\" />
+    <Folder Include="src\ui\" />
+    <Folder Include="src\services\" />
+    <Folder Include="src\utils\" />
   </ItemGroup>
 </Project>
